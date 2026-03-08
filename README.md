@@ -1,6 +1,3 @@
-
-## 2) **minishell** (`minishell/README.md`)
-
 ```md
 # minishell - 42 Firenze Project
 
